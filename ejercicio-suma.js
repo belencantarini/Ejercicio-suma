@@ -1,9 +1,8 @@
 let resultado = 0;
-let a = 0;
+let n = 0;
 
-function suma(a) {
-    resultado += a;
-    return resultado;
+function suma(n) {
+    resultado += n;
 }
 
 for (let i = 0; i < 5; i++) {
